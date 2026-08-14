@@ -1,7 +1,6 @@
 ## 📌 About Me:
 
-📚 I'm currently learning **Django**  
-🚀 Building projects with **Python & Django**  
+
 
 ## 🌐 Social Links:
 
