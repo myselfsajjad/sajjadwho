@@ -44,6 +44,4 @@
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sajjadwho&style=flat-square&color=orange" alt="profile views" height="120" width="140"/>
-</p>
+
